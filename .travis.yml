@@ -6,5 +6,7 @@ android:
     - extra-google-google_play_services
     - sys-img-armeabi-v7a-android-wear-22
     - extra-android-support
-  #  - platform-tools
-  #  - tools
+    - extra-google-m2repository
+    - extra-android-m2repository
+    - platform-tools
+    - tools
